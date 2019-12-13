@@ -2,6 +2,6 @@ p {
 	color: red;
 }
 
-p .banana{
+p.banana{
 	color: blue;
 }
