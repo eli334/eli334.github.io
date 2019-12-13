@@ -2,23 +2,23 @@ p {
 	color: red;
 }
 
-p.apple{
+.apple{
 	color: blue;
 }
 
-p.banana{
+.banana{
 	color: yellow;
 }
 
-p.coconut{
+.coconut{
 	color: white;
 }
 
-p.date{
+.date{
 	color: brown;
 }
 	
-p.elderberry{
+.elderberry{
 	color: purple;
 }
 
